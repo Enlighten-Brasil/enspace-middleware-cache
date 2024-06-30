@@ -9,10 +9,10 @@
     "eslint:fix": "eslint . --fix",
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write .",
-    "lint": "run-s eslint:fix prettier:fix",
-    "test": "run-s test:*",
+    "lint": "run eslint:fix prettier:fix",
+    "test": "run test:*",
     "test:tsc": "tsc",
-    "test:lint": "run-s eslint prettier",
+    "test:lint": "run eslint prettier",
     "test:mocha": "mocha ./tests/*.test.js --exit"
   },
   "keywords": [
