@@ -1,5 +1,5 @@
 {
-  "name": "strapi-middleware-cache",
+  "name": "enspace-middleware-cache",
   "version": "2.1.8",
   "description": "Cache strapi requests",
   "main": "./lib",
