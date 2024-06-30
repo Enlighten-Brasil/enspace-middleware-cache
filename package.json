@@ -1,6 +1,6 @@
 {
   "name": "enspace-middleware-cache",
-  "version": "2.1.8",
+  "version": "0.0.1",
   "description": "Cache strapi requests",
   "main": "./lib",
   "types": "./types",
@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patrixr/strapi-middleware-cache.git"
+    "url": "git+https://github.com/Enlighten-Brasil/enspace-middleware-cache.git"
   },
-  "author": "Patrick R",
+  "author": "Raul Domingues",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
